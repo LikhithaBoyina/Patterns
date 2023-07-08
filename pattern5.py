@@ -4,6 +4,7 @@
 # 5 5 5 
 # 7 7 7 7 
 # 9 9 9 9 9
+
 n=int(input())
 for i in range(n):
     for j in range(i+1):
